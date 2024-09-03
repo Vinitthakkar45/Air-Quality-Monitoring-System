@@ -75,10 +75,6 @@ This project is an IoT-based Air Quality Monitoring System that measures the con
 
 If you wish to contribute to this project, feel free to fork the repository and submit a pull request. Ensure that you follow the coding style and include appropriate tests.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Arduino
