@@ -45,7 +45,7 @@ This project is an IoT-based Air Quality Monitoring System that measures the con
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/Air-Quality-Monitoring-System.git
+   git clone https://github.com/Vinitthakkar45/Air-Quality-Monitoring-System.git
    cd Air-Quality-Monitoring-System
    
 2. **Install Dependencies**:
@@ -81,3 +81,8 @@ If you wish to contribute to this project, feel free to fork the repository and 
 - ESP32
 - MQ Sensors
 - Custom SMTP Libraries
+
+
+### Changes Made
+1. **Added a new "Images" section**: This section provides a link to the newly created `images` directory.
+2. **Ensured clarity and flow**: The overall flow of the README is maintained, and the reference to the images is integrated seamlessly.
