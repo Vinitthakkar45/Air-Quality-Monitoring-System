@@ -48,18 +48,16 @@ This project is an IoT-based Air Quality Monitoring System that measures the con
    git clone https://github.com/yourusername/Air-Quality-Monitoring-System.git
    cd Air-Quality-Monitoring-System
    
-### Installation
-
-1. **Install Dependencies**:
+2. **Install Dependencies**:
    - Open Arduino IDE and install necessary libraries for the ESP32 and sensors.
 
-2. **Configure the Code**:
+3. **Configure the Code**:
    - Update the code with your Wi-Fi credentials and SMTP settings in the appropriate sections.
 
-3. **Upload the Code**:
+4. **Upload the Code**:
    - Connect the ESP32 board to your computer and upload the code using Arduino IDE.
 
-4. **Set Up Arduino IoT Cloud**:
+5. **Set Up Arduino IoT Cloud**:
    - Follow the instructions on the Arduino IoT Cloud to create a new device and link it to your ESP32.
 
 ## Usage
