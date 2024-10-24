@@ -3,6 +3,11 @@
 This project is an IoT-based Air Quality Monitoring System that measures the concentration of various gases in the air using multiple sensors and provides real-time data monitoring via a mobile app. The system sends email alerts when gas levels exceed predefined thresholds, ensuring timely notifications for health and safety.
 
 ![Preview of the Dashboard and Alerts](Preview%20Dashboard%20and%20alert%20images/WhatsApp%20Image%202024-06-26%20at%2000.40.03_be3bcd1e.jpg)
+![Preview of the Dashboard and Alerts](Preview%20Dashboard%20and%20alert%20images/WhatsApp%20Image%202024-06-26%20at%2000.40.16_68b2387f.jpg)
+![Preview of the Dashboard and Alerts](Preview%20Dashboard%20and%20alert%20images/WhatsApp%20Image%202024-06-26%20at%2000.40.03_be3bcd1e.jpg)
+![Preview of the Dashboard and Alerts](Preview%20Dashboard%20and%20alert%20images/WhatsApp%20Image%202024-06-26%20at%2000.40.03_be3bcd1e.jpg)
+![Preview of the Dashboard and Alerts](Preview%20Dashboard%20and%20alert%20images/WhatsApp%20Image%202024-06-26%20at%2000.40.03_be3bcd1e.jpg)
+![Preview of the Dashboard and Alerts](Preview%20Dashboard%20and%20alert%20images/WhatsApp%20Image%202024-06-26%20at%2000.40.03_be3bcd1e.jpg)
 
 
 ## Features
